@@ -1,0 +1,16 @@
+{
+    "name": "Vanilla PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Helmi Agil",
+            "email": "helmiagilachmani098@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
